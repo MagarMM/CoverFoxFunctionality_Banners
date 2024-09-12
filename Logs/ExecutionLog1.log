@@ -1,0 +1,24 @@
+2024-09-12 21:17:05,597 [main] INFO CoverFox - Open Browser
+2024-09-12 21:17:10,759 [main] INFO CoverFox - Click On Male Button
+2024-09-12 21:17:12,371 [main] INFO CoverFox - Click On Next Button
+2024-09-12 21:17:17,461 [main] INFO CoverFox - Handle DropDown
+2024-09-12 21:17:17,462 [main] WARN CoverFox - Age Between 18 To 75
+2024-09-12 21:17:19,821 [main] INFO CoverFox - Click On Next Button
+2024-09-12 21:17:20,919 [main] INFO CoverFox - Pin Code
+2024-09-12 21:17:22,146 [main] INFO CoverFox - Enter Mobile Number
+2024-09-12 21:17:23,385 [main] INFO CoverFox - Click On Contineu Button
+2024-09-12 21:17:23,483 [main] INFO CoverFox - Functionality Of Banners
+2024-09-12 21:17:26,558 [main] INFO CoverFox - Close Browser
+2024-09-12 21:33:04,777 [main] INFO CoverFox - Open Browser
+2024-09-12 21:33:48,233 [main] INFO CoverFox - Open Browser
+2024-09-12 22:12:44,944 [main] INFO CoverFox - Open Browser
+2024-09-12 22:12:58,612 [main] INFO CoverFox - Click On Male Button
+2024-09-12 22:13:00,519 [main] INFO CoverFox - Click On Next Button
+2024-09-12 22:13:05,579 [main] INFO CoverFox - Handle DropDown
+2024-09-12 22:13:05,579 [main] WARN CoverFox - Age Between 18 To 75
+2024-09-12 22:13:07,565 [main] INFO CoverFox - Click On Next Button
+2024-09-12 22:13:08,641 [main] INFO CoverFox - Pin Code
+2024-09-12 22:13:09,796 [main] INFO CoverFox - Enter Mobile Number
+2024-09-12 22:13:10,900 [main] INFO CoverFox - Click On Contineu Button
+2024-09-12 22:13:10,988 [main] INFO CoverFox - Functionality Of Banners
+2024-09-12 22:13:14,046 [main] INFO CoverFox - Close Browser
